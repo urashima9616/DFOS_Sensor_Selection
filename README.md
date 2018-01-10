@@ -26,7 +26,7 @@ Therefore, in this paper, we focus on the solution to four different (yet relate
 
 The system identification method is developed based on the following work:
 
-1. Xue, Y., Pequito, S., Coelho, J. R., Bogdan, P., & Pappas, G. J. (2016, September). Minimum number of sensors to ensure observability of physiological systems: A case study. In Communication, Control, and Computing (Allerton), 2016 54th Annual Allerton Conference on (pp. 1181-1188). IEEE.
+1.Xue, Y., Pequito, S., Coelho, J. R., Bogdan, P., & Pappas, G. J. (2016, September). Minimum number of sensors to ensure observability of physiological systems: A case study. In Communication, Control, and Computing (Allerton), 2016 54th Annual Allerton Conference on (pp. 1181-1188). IEEE.
 
 2.Xue, Yuankun, Saul Rodriguez, and Paul Bogdan. "A spatio-temporal fractal model for a CPS approach to brain-machine-body interfaces." In Design, Automation & Test in Europe Conference & Exhibition (DATE), 2016, pp. 642-647. IEEE, 2016.
 
