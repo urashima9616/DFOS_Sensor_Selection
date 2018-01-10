@@ -33,5 +33,5 @@ The system identification method is developed based on the following work:
 3.Xue, Yuankun, and Paul Bogdan. "Constructing compact causal mathematical models for complex dynamics." In Proceedings of the 8th International Conference on Cyber-Physical Systems, pp. 97-107. ACM, 2017.
 
 
-/////////////////////////////////////////////////////////////////////////////
+
 
